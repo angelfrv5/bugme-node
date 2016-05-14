@@ -1,0 +1,14 @@
+{
+    "name": "bug-me",
+    "version": "0.0.1",
+    "description": "bugger off",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nermolov/bugme-node"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "socket.io": "latest"
+    },
+    "author": "nermolov"
+}
