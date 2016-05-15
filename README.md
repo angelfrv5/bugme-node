@@ -4,8 +4,10 @@ A simple session based notification application. Go to the server, create a link
 
 To install and run, use:
 
-```npm install
-node main.js```
+```
+npm install
+node main.js
+```
 
 You can set the port in ```main.js```, the default is 8080.
 
